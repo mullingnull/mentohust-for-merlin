@@ -1,0 +1,11 @@
+#Changelog
+因为merlin中权限限制等原因，做出如下修改：
+
+1. 修改myfunc.c中line 29 默认数据文件(目录)为"/jffs/mentohust/"，原始配置为"/etc/mentohust/"
+2. 修改myconfig.c中line 40 配置文件地址为"/jffs/mentohust/mentohust.conf"，原始配置为"/etc/mentohust.conf"
+3. 修改myconfig.c中line 41 日志文件地址为"/jffs/mentohust/mentohust.log"，原始配置为"/tmp/mentohust.log"
+4. 修改myconfig.c中line 42 锁文件地址为"/jffs/mentohust/mentohust.pid"，原始配置为"/var/run/mentohust.pid"
+
+以上
+
+                                            modified by mullingnull 2016年6月
