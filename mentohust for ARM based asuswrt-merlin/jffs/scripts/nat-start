@@ -1,6 +1,3 @@
 #!/bin/sh
 sh /jffs/mentohust/menstart.sh
-sleep 0
-sh /koolshare/ss/redchn/nat-start
-dbus fire onnatstart
 
