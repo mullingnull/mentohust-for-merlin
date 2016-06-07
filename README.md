@@ -12,7 +12,7 @@ sourcecode有改动，详情请参阅./cross-compilation-sourcecode-based-on-men
 
 使用时请将本项目中jffs目录下文件增量更新至路由器jffs目录
 
-**烦请务必注意增量更新nat-start中设置，不要直接覆盖路由器原设置，以免丢失原设置**
+**烦请务必注意增量更新nat-start中设置，不要直接覆盖，以免丢失原设置**
 
 详细介绍、调试、运行步骤请移步 [先前po在koolshare的帖子](http://koolshare.cn/thread-9324-1-1.html) 
 
